@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="flutter-bootstrap-js" async></script>
+</head>
+<body style="position: fixed; inset: 0px; overflow: hidden; padding: 0px; margin: 0px; user-select: none; touch-action: none;">
+    <div role="button" aria-live="polite" tabindex="0" aria-label="Enable accessibility" 
+         style="position: absolute; left: -1px; top: -1px; width: 1px; height: 1px;">
+    </div>
+    
+    <flt-announcement-host></flt-announcement-host>
+    
+    <flutter-view flt-view-id="0" tabindex="0" style="position: absolute; inset: 0px; width: 1536px; height: 729.6px;">
+        <!-- Flutter content goes here -->
+    </flutter-view>
+</body>
+</html>
